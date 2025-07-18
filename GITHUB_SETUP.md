@@ -17,7 +17,7 @@ Follow these steps to push this project to a private GitHub repository:
 After creating the repository, GitHub will show you commands to push an existing repository. Run the following command in your terminal:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/punjabi-ai-podcasts.git
+git remote add origin https://github.com/GeeksikhSecurity/punjabi-ai-podcasts.git
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username and `punjabi-ai-podcasts` with the name of your repository.
