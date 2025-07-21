@@ -1,4 +1,4 @@
-# Punjabi AI Podcasts
+# Panjabi AI Podcasts
 
 A system to transform Panjab Digital Library documents into engaging audio podcasts with synchronized visual mindmaps.
 
